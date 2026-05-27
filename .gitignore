@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+storage/
+archive/
+*.db
+.DS_Store
+publish.sh
