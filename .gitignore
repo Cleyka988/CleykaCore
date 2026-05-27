@@ -1,6 +1,6 @@
 __pycache__/
-*.pyc
 *.pyo
+*.pyc
 storage/
 archive/
 *.db
